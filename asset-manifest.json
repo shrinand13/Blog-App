@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shrinand13/Blog-App/static/css/main.bed64abf.css",
+    "main.js": "/shrinand13/Blog-App/static/js/main.f53ea9fc.js",
+    "index.html": "/shrinand13/Blog-App/index.html",
+    "main.bed64abf.css.map": "/shrinand13/Blog-App/static/css/main.bed64abf.css.map",
+    "main.f53ea9fc.js.map": "/shrinand13/Blog-App/static/js/main.f53ea9fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed64abf.css",
+    "static/js/main.f53ea9fc.js"
+  ]
+}
