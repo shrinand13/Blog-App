@@ -1,0 +1,46 @@
+.navbar-container{
+    background-color: red;
+    height: 100px;
+}
+.navbar-content{
+    cursor: pointer;
+    background-color: orange;
+    height: 100px;
+    display: flex;
+}
+.navbar-content p:hover{
+    transition-duration: 200ms;
+    color: white;
+}
+
+/* Navigation outer alignment */
+.left-container {
+    width: 20%;
+    display: flex;
+}
+.mid-container{
+    width: 40%;
+    display: flex;
+}
+.right-container{
+    height: 100px;
+    width: 40%;
+    display: flex;
+}
+.left-container p{
+    font-size: 22px;
+    font-weight: 1000;
+    line-height: 100px;
+    margin-left: 25%;
+}
+.right-container p{
+    font-size: 18px;
+    line-height: 100px;
+    margin-left: 3%;
+}
+.right-container p:last-child{
+   color: red;
+}
+.right-container p:last-child:hover{
+    color: white;
+ }
