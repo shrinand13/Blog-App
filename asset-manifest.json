@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/shrinand13/Blog-App/static/css/main.bed64abf.css",
-    "main.js": "/shrinand13/Blog-App/static/js/main.f53ea9fc.js",
+    "main.css": "/shrinand13/Blog-App/static/css/main.315a3902.css",
+    "main.js": "/shrinand13/Blog-App/static/js/main.50d97294.js",
     "index.html": "/shrinand13/Blog-App/index.html",
-    "main.bed64abf.css.map": "/shrinand13/Blog-App/static/css/main.bed64abf.css.map",
-    "main.f53ea9fc.js.map": "/shrinand13/Blog-App/static/js/main.f53ea9fc.js.map"
+    "main.315a3902.css.map": "/shrinand13/Blog-App/static/css/main.315a3902.css.map",
+    "main.50d97294.js.map": "/shrinand13/Blog-App/static/js/main.50d97294.js.map"
   },
   "entrypoints": [
-    "static/css/main.bed64abf.css",
-    "static/js/main.f53ea9fc.js"
+    "static/css/main.315a3902.css",
+    "static/js/main.50d97294.js"
   ]
 }
